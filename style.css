@@ -1,0 +1,19 @@
+main{
+    width: 60%;
+    margin: 100px auto;
+    border: 3px solid;
+    padding: 60px ;
+}
+/* local git command */
+/* 
+git init 
+git add.
+git commit-m"cmt,much etc"
+*/
+
+/* global git command */
+/* 
+git branch-m main
+git remote add origin https://github.com/SrabonOSD/flower.git
+git push -u origin main
+*/
